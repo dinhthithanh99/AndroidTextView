@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidTextView</string>
-</resources>
+    <string name="rate">Hello Class</string>
+    </resources>
