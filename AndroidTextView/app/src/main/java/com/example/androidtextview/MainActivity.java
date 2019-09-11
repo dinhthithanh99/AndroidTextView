@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         TextView tv = findViewById(R.id.tv);
         tv.setText("Code Java");
-        tv.setTextColor(Color.RED);
+        tv.setTextColor(Color.parseColor("#ff1493"));
     }
 }
